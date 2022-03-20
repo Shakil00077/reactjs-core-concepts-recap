@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+.users{
+  background-color: salmon;
+  margin: 20px;
+  border: 2px solid skyblue;
+  padding: 10px;
+  border-radius: 20px;
+}
